@@ -1,6 +1,6 @@
 # Hostel-Management-System
 
-![image](https://user-images.githubusercontent.com/89991399/178553653-b80ce751-3a36-4105-8c78-7ae2737d4649.png)
+<img width="334" alt="Screenshot 2022-07-12 at 10 49 58 PM" src="https://user-images.githubusercontent.com/89991399/178553788-954a18bf-0bf0-4483-98d7-09a28c5209f4.png">
 
 
 By
