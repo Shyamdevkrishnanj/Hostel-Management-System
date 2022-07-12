@@ -1,6 +1,6 @@
 # Hostel-Management-System
 
-## HOSTEL MANAGEMENT SYSTEM is a software developed for managing various activities in the hostel
+## This project is based on a software developed for managing various activities in the hostel
 
 <p align="center"><img width="334" alt="Screenshot 2022-07-12 at 10 49 58 PM" src="https://user-images.githubusercontent.com/89991399/178553788-954a18bf-0bf0-4483-98d7-09a28c5209f4.png"></p align="center">
 
