@@ -4,6 +4,8 @@
 
 ## This project is based on a software developed for managing various activities in the hostel
 
+<div align="center">
+
 | **NAME** | **ROLL-NUMBER** | 
 | :--- | :---: |
 | AKARSH S NAIR |AM.EN.U4AIE21008|
@@ -11,4 +13,6 @@
 | NAYAN M.K | AM.EN.U4AIE21048   |
 | SHYAMDEV KRISHNAN J | AM.EN.U4AIE21060 |
 | SABARINATH B | AM.EN.U4AIE21080 |
+
+</div align="center">
   
